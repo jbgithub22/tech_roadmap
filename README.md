@@ -13,9 +13,11 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 </ul>
 
 #### 1.2 - Resources
+
 [Angela Yu's Complete Web Development Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=KEEPLEARNING)
 
 #### 1.3 - Timeline
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Github Setup & Introduction to HTML | Angela Yu - Sections 1-2 |
@@ -35,7 +37,9 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
   <li>To learn to use Docker for containerization of projects.</li>
   <li>To learn Kubernetes afterwards.</li>
 </ul>
+
 #### 2.2 - Timeline
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Docker Desktop Installation, creating Images and Containers | |
@@ -48,6 +52,7 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 </ul>
 
 #### 3.2 - Timeline
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Titanic Surivival Prediction in Python | [Youtube-NeuralNine](https://www.youtube.com/watch?v=fATVVQfFyU0&list=PLzO8CHlQNBCnQRTwVkUEpAEuAu8W_qOnl)|
@@ -60,9 +65,13 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
   <li>To learn application of advanced python methods in a project.</li>
   <li>To develop intuition for solving errors and exceptions.</li>
 </ul>
+
 #### 4.4 - Resources
+
 [End-to-End Machine Learning Project YT Playlist by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG)
+
 #### 4.3 - Timeline
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| VSCode, Github and setup.py | Krish Naik's ML Tutorial 1 |
@@ -80,9 +89,13 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
   <li>To learn no-code data visualization.</li>
   <li>To create easy-to-use interactive dashboards.</li>
 </ul>
+
 #### 5.2 - Resources
+
 [Tablea Training for Data Science (Udemy)](https://www.udemy.com/course/tableau10/?couponCode=KEEPLEARNING)
+
 #### 5.3 - Timeline
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Importing CSV Files, Calculated Fields and Exporting Worksheets | Udemy Ch. 1 |
@@ -99,9 +112,13 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
   <li>To learn the Microsoft Business Intelligence ecosystem.</li>
   <li>To learn how Microsoft Data Analytics is integrated with Azure and Fabric.</li>
 </ul>
+
 #### 6.2 - Resources
+
 [Microsoft Learn - Power BI Data Analyst](https://learn.microsoft.com/en-us/collections/djwu3eywpk4nm)
+
 #### 6.3 - Timeline
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Power BI Interface, Data Sources and Power Query Tool | Microsoft Learn -Lesson 1 |
@@ -115,7 +132,9 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 <ul>
   <li>To learn how to handle SQL databases and make queries.</li>
 </ul>
+
 #### 7.2 - Timeline
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Placeholder | Udemy Lesson Link|
@@ -126,6 +145,7 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
   <li>To learn how to handle NoSQL databases such as MongoDB.</li>
 </ul>
 #### 8.2 - Timeline
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Placeholder | Udemy Lesson Link|
@@ -136,9 +156,13 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
   <li>To learn programming fundamentals behind functions.</li>
   <li>To learn first-principles of algorithms to enable ground-up implementation at work.</li>
 </ul>
+
 #### 9.2 - Resources
+
 University of Colorado Boulder - Coursera Data Science
+
 #### 9.3 - Timeline
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Insertion Sort Algorithm | |
@@ -200,7 +224,9 @@ University of Colorado Boulder - Coursera Data Science
   <li>To learn fundamentals of statistics.</li>
   <li>To learn intuition on which statistical method to apply to which problems or questions.</li>
 </ul>
+
 #### 10.2 - Timeline
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Placeholder | Udemy Lesson Link|
@@ -210,7 +236,9 @@ University of Colorado Boulder - Coursera Data Science
 <ul>
   <li>To learn quality-of-life improvements to make coding easier.</li>
 </ul>
+
 #### 11.2 - Timeline
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Krish Naik's Advanced Python Tutorial | |
@@ -220,7 +248,9 @@ University of Colorado Boulder - Coursera Data Science
 <ul>
   <li>To learn a language purpose-built for Data Science.</li>
 </ul>
+
 #### 12.2 - Timeline
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| John Hopkin's University - R Programming | |
