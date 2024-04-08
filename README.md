@@ -12,6 +12,7 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 </ul>
 <li>To learn to create my own website.</li>
 <li>To learn to use a cloud service such as AWS.</li>
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Placeholder | Udemy Lesson Link|
@@ -23,7 +24,6 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
   <li>To learn Kubernetes afterwards.</li>
 </ul>
 
-
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Placeholder | Udemy Lesson Link|
@@ -34,6 +34,7 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
   <li>To familiarize with datasets from various disciplines.</li>
   <li>To gain intuition on approaches to analyzing and producing models from datasets from various disciplines.</li>
 </ul>
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Placeholder | Udemy Lesson Link|
@@ -45,6 +46,7 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
   <li>To learn application of advanced python methods in a project.</li>
   <li>To develop intuition for solving errors and exceptions.</li>
 </ul>
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Placeholder | Udemy Lesson Link|
@@ -55,6 +57,7 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
   <li>To learn no-code data visualization.</li>
   <li>To create easy-to-use interactive dashboards.</li>
 </ul>
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Placeholder | Udemy Lesson Link|
@@ -65,6 +68,7 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
   <li>To learn the Microsoft Business Intelligence ecosystem.</li>
   <li>To learn how Microsoft Data Analytics is integrated with Azure and Fabric.</li>
 </ul>
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Placeholder | Udemy Lesson Link|
@@ -74,6 +78,7 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 <ul>
   <li>To learn how to handle SQL databases and make queries.</li>
 </ul>
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Placeholder | Udemy Lesson Link|
@@ -83,6 +88,7 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 <ul>
   <li>To learn how to handle NoSQL databases such as MongoDB.</li>
 </ul>
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Placeholder | Udemy Lesson Link|
@@ -93,6 +99,7 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
   <li>To learn programming fundamentals behind functions.</li>
   <li>To learn first-principles of algorithms to enable ground-up implementation at work.</li>
 </ul>
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Placeholder | Udemy Lesson Link|
@@ -103,6 +110,7 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
   <li>To learn fundamentals of statistics.</li>
   <li>To learn intuition on which statistical method to apply to which problems or questions.</li>
 </ul>
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Placeholder | Udemy Lesson Link|
@@ -112,6 +120,7 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 <ul>
   <li>To learn quality-of-life improvements to make coding easier.</li>
 </ul>
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Placeholder | Udemy Lesson Link|
@@ -121,6 +130,7 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 <ul>
   <li>To learn a language purpose-built for Data Science.</li>
 </ul>
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Placeholder | Udemy Lesson Link|
