@@ -6,15 +6,16 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 ## Skills & Timeline
 
 ### 1 - Web Development
-**Goals** 
+#### 1.1 - Goals
 <ul>
-
+  <li>To learn to create my own website.</li>
+  <li>To learn to use a cloud service such as AWS.</li>
 </ul>
-<li>To learn to create my own website.</li>
-<li>To learn to use a cloud service such as AWS.</li>
 
-Resources: [Angela Yu's Complete Web Development Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=KEEPLEARNING)
+#### 1.2 - Resources
+[Angela Yu's Complete Web Development Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=KEEPLEARNING)
 
+#### 1.3 - Timeline
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Github Setup & Introduction to HTML | Angela Yu - Sections 1-2 |
@@ -29,23 +30,24 @@ Resources: [Angela Yu's Complete Web Development Course](https://www.udemy.com/c
 |Day 10| Folder structure for keeping an archive of old website designs | |
 
 ### 2 - Docker
-**Goals:** 
+#### 2.1 - Goals
 <ul>
   <li>To learn to use Docker for containerization of projects.</li>
   <li>To learn Kubernetes afterwards.</li>
 </ul>
-
+#### 2.2 - Timeline
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
-|Day 1| Placeholder | Udemy Lesson Link|
+|Day 1| Docker Desktop Installation, creating Images and Containers | |
 
 ### 3 - Kaggle
-**Goals:** To learn to use Docker for containerization of projects.
+#### 3.1 - Goals
 <ul>
   <li>To familiarize with datasets from various disciplines.</li>
   <li>To gain intuition on approaches to analyzing and producing models from datasets from various disciplines.</li>
 </ul>
 
+#### 3.2 - Timeline
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Placeholder | Udemy Lesson Link|
