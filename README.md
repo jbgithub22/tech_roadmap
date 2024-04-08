@@ -13,9 +13,20 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 <li>To learn to create my own website.</li>
 <li>To learn to use a cloud service such as AWS.</li>
 
+Resources: [Angela Yu's Complete Web Development Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=KEEPLEARNING)
+
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
-|Day 1| Placeholder | Udemy Lesson Link|
+|Day 1| Github Setup & Introduction to HTML | Angela Yu - Sections 1-2 |
+|Day 2| Intermediate HTML & Multi-page Websites | Angela Yu - Section 3-4 |
+|Day 3| CSS - Beginner to Advanced | Angela Yu - Sections 5-8 |
+|Day 4| Flexbox, Grid & Bootstrap | Angela Yu - Sections 9-11 |
+|Day 5| Javascript & Document Object Model | Angela Yu - Sections 12-16 |
+|Day 6| Domain name purchase and hosting with Hostinger | |
+|Day 7| Domain name purchase with Namecheap and getting started with AWS EC2 | |
+|Day 8| AWS EC2 Apache2 server setup and SSL Certificate procurement | |
+|Day 9| CI/CD with Github Actions | |
+|Day 10| Folder structure for keeping an archive of old website designs | |
 
 ### 2 - Docker
 **Goals:** 
