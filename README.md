@@ -1,23 +1,33 @@
-<h1 align="center">tech_roadmap</h1>
+<h1 align="center">Tech Skills Roadmap</h1>
 
 This is my tech learning journal for skills ranging from HTML/CSS to ML Libraries like Scikit Learn/XGBoost to DevOps topics.
 
 ## Table of Contents
+[Web Development](#webDevelopment)
+[Docker](#docker)
+[kaggle](#kaggle)
+[End-to-End Machine Learning Projects](#End2EndML)
+[Business Intelligence - PowerBI & Tableau](#BI)
+[SQL](#sql)
+[NoSQL](#nosql)
+[Algorithms](#algo)
+[Statistics](#stats)
+[Python / Advanced Python](#advPython)
+[R / Advanced R](#R)
 
-## Skills & Timeline
 
-### 1 - Web Development
-#### 1.1 - Goals
+## 1 - Web Development <a name="webDevelopment"></a>
+### 1.1 - Goals
 <ul>
   <li>To learn to create my own website.</li>
   <li>To learn to use a cloud service such as AWS.</li>
 </ul>
 
-#### 1.2 - Resources
+### 1.2 - Resources
 
 [Angela Yu's Complete Web Development Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=KEEPLEARNING)
 
-#### 1.3 - Timeline
+### 1.3 - Timeline
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
@@ -31,47 +41,48 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 |Day 8| AWS EC2 Apache2 server setup and SSL Certificate procurement | |
 |Day 9| CI/CD with Github Actions | |
 |Day 10| Folder structure for keeping an archive of old website designs | |
+|Day 11| Galssmorphism CSS Aesthetic | |
 
-### 2 - Docker
-#### 2.1 - Goals
+## 2 - Docker <a name="docker"></a>
+### 2.1 - Goals
 <ul>
   <li>To learn to use Docker for containerization of projects.</li>
   <li>To learn Kubernetes afterwards.</li>
 </ul>
 
-#### 2.2 - Timeline
+### 2.2 - Timeline
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Docker Desktop Installation, creating Images and Containers | |
 
-### 3 - Kaggle
-#### 3.1 - Goals
+## 3 - Kaggle <a name="kaggle"></a>
+### 3.1 - Goals
 <ul>
   <li>To familiarize with datasets from various disciplines.</li>
   <li>To gain intuition on approaches to analyzing and producing models from datasets from various disciplines.</li>
 </ul>
 
-#### 3.2 - Timeline
+### 3.2 - Timeline 
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Titanic Surivival Prediction in Python | [Youtube-NeuralNine](https://www.youtube.com/watch?v=fATVVQfFyU0&list=PLzO8CHlQNBCnQRTwVkUEpAEuAu8W_qOnl)|
 |Day 2| Titanic Cont'd [Seaborn, Numpy, Matplotlib, SKLearn, GridSearchCV] | |
 
-### 4 - End-to-End Machine Learning Projects
-#### 4.1 - Goals
+## 4 - End-to-End Machine Learning Projects <a name="End2EndML"></a>
+### 4.1 - Goals
 <ul>
   <li>To learn entire project lifecycle of a machine learning project.</li>
   <li>To learn application of advanced python methods in a project.</li>
   <li>To develop intuition for solving errors and exceptions.</li>
 </ul>
 
-#### 4.4 - Resources
+### 4.4 - Resources
 
 [End-to-End Machine Learning Project YT Playlist by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG)
 
-#### 4.3 - Timeline
+### 4.3 - Timeline
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
@@ -84,18 +95,21 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 |Day 7| Hyperparameter Tuning | Krish Naik's ML Tutorial 7 |
 |Day 8| Model test deployment with Flask | Krish Naik's ML Tutorial 8 |
 
-### 5 - Tableau
-#### 5.1 - Goals
+## 5 - Business Intelligence: PowerBI and Tableau <a name="BI"></a>
+### 5.1 - Goals
 <ul>
   <li>To learn no-code data visualization.</li>
   <li>To create easy-to-use interactive dashboards.</li>
+  <li>To learn the Microsoft Business Intelligence ecosystem.</li>
+  <li>To learn how Microsoft Data Analytics is integrated with Azure and Fabric.</li>
 </ul>
 
-#### 5.2 - Resources
+### 5.2 - Resources
 
+[Microsoft Learn - Power BI Data Analyst](https://learn.microsoft.com/en-us/collections/djwu3eywpk4nm)
 [Tablea Training for Data Science (Udemy)](https://www.udemy.com/course/tableau10/?couponCode=KEEPLEARNING)
 
-#### 5.3 - Timeline
+### 5.3 - Timeline
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
@@ -106,63 +120,47 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 |Day 5| Table Calculations, Advanced Dashboards and Storyline | Udemy Ch. 5 |
 |Day 6| Advanced Data Preparation, Column Splitting, Pivoting, Geographical Errors | Udemy Ch. 6 |
 |Day 7| Course Completion: Clusters, Custom Territories, Design Features | Udemy Ch. 7 |
+|Day 8| Power BI Interface, Data Sources and Power Query Tool | Microsoft Learn -Lesson 1 |
+|Day 9| Clean, transform and load data | Microsoft Learn - Lesson 2 |
+|Day 10| Personal Project - Analyzing Relations between Country Obesity Rates, Country Weather and Country Economics | |
+|Day 11| Personal Project Cont'd - Transforming CIA World Factbook Dataset [258 Rows x 1071 Cols] | |
+|Day 12| Personal Project Cont'd - Interactive Dashboards | |
 
-### 6 - PowerBI
-#### 6.1 - Goals
-<ul>
-  <li>To learn the Microsoft Business Intelligence ecosystem.</li>
-  <li>To learn how Microsoft Data Analytics is integrated with Azure and Fabric.</li>
-</ul>
-
-#### 6.2 - Resources
-
-[Microsoft Learn - Power BI Data Analyst](https://learn.microsoft.com/en-us/collections/djwu3eywpk4nm)
-
-#### 6.3 - Timeline
-
-|**Day**|**Lessons/Tasks Done**|**Reference Links**|
-|-|-|-|
-|Day 1| Power BI Interface, Data Sources and Power Query Tool | Microsoft Learn -Lesson 1 |
-|Day 2| Clean, transform and load data | Microsoft Learn - Lesson 2 |
-|Day 3| Personal Project - Analyzing Relations between Country Obesity Rates, Country Weather and Country Economics | |
-|Day 4| Personal Project Cont'd - Transforming CIA World Factbook Dataset [258 Rows x 1071 Cols] | |
-|Day 5| Personal Project Cont'd - Interactive Dashboards | |
-
-### 7 - SQL
-#### 7.1 - Goals
+## 6 - SQL <a name="SQL"></a>
+### 6.1 - Goals
 <ul>
   <li>To learn how to handle SQL databases and make queries.</li>
 </ul>
 
+### 6.2 - Timeline
+
+|**Day**|**Lessons/Tasks Done**|**Reference Links**|
+|-|-|-|
+|Day 1| Placeholder | Udemy Lesson Link|
+
+## 7 - NoSQL <a name="nosql"></a>
+### 7.1 - Goals
+<ul>
+  <li>To learn how to handle NoSQL databases such as MongoDB.</li>
+</ul>
 #### 7.2 - Timeline
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Placeholder | Udemy Lesson Link|
 
-### 8 - NoSQL
-#### 8.1 - Goals
-<ul>
-  <li>To learn how to handle NoSQL databases such as MongoDB.</li>
-</ul>
-#### 8.2 - Timeline
-
-|**Day**|**Lessons/Tasks Done**|**Reference Links**|
-|-|-|-|
-|Day 1| Placeholder | Udemy Lesson Link|
-
-### 9 - Algorithms
-#### 9.1 - Goals
+## 8 - Algorithms <a name="algo"></a>
+### 8.1 - Goals
 <ul>
   <li>To learn programming fundamentals behind functions.</li>
   <li>To learn first-principles of algorithms to enable ground-up implementation at work.</li>
 </ul>
 
-#### 9.2 - Resources
+### 8.2 - Resources
 
 University of Colorado Boulder - Coursera Data Science
 
-#### 9.3 - Timeline
+### 8.3 - Timeline
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
@@ -183,7 +181,7 @@ University of Colorado Boulder - Coursera Data Science
 |Day 15| Red-Black Trees | |
 |Day 16| Graphs, Graph Traversal and Breadth First Search | |
 |Day 17| Depth First Search | |
-|day 18| Topological Sorting and Strongly Connected Components | |
+|Day 18| Topological Sorting and Strongly Connected Components | |
 |Day 18| Assignment: Graphs | |
 |Day 19| Amortized Analysis of Data Structures | |
 |Day 20| Spanning Trees and Minimal Spanning Trees | |
@@ -219,38 +217,38 @@ University of Colorado Boulder - Coursera Data Science
 |Day 50| Bell's Inequality, Grover's Search Algorithm | |
 |Day 51| Assignment: Problem Set 4 | |
 
-### 10 - Statistics
-#### 10.1 - Goals
+## 9 - Statistics <a name="stats"></a>
+### 9.1 - Goals
 <ul>
   <li>To learn fundamentals of statistics.</li>
   <li>To learn intuition on which statistical method to apply to which problems or questions.</li>
 </ul>
 
-#### 10.2 - Timeline
+### 9.2 - Timeline
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Placeholder | Udemy Lesson Link|
 
-### 11 - Advanced Python
-#### 11.1 - Goals
+## 10 - Advanced Python <a name="advPython"></a>
+### 10.1 - Goals
 <ul>
   <li>To learn quality-of-life improvements to make coding easier.</li>
 </ul>
 
-#### 11.2 - Timeline
+### 10.2 - Timeline
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Krish Naik's Advanced Python Tutorial | |
 
-### 12 - Advanced R
-#### 12.1 - Goals
+## 11 - Advanced R <a name="R"></a>
+### 11.1 - Goals
 <ul>
   <li>To learn a language purpose-built for Data Science.</li>
 </ul>
 
-#### 12.2 - Timeline
+### 11.2 - Timeline
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
