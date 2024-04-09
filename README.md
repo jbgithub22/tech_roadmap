@@ -7,22 +7,22 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 
 ## Table of Contents
 [Web Development](#webDevelopment)  
-[End-to-End Machine Learning Projects](#End2EndML)  
+[Machine Learning Projects](#End2EndML)  
 [Kaggle](#kaggle)  
-[Business Intelligence - PowerBI & Tableau](#BI)  
-[SQL](#sql)  
-[NoSQL](#nosql)  
+[Business Intelligence: PowerBI & Tableau](#BI)  
+[SQL / NoSQL](#sql)  
 [Algorithms](#algo)  
-[Statistics](#stats)  
 [Python / Advanced Python](#advPython)  
 [R / Advanced R](#R)  
 [Docker](#docker)  
+[Statistics](#stats)  
+[Linear Algebra](#linearAlgebra)  
 
 
 
 
 
-## 1 - Web Development <a name="webDevelopment"></a>
+## Web Development <a name="webDevelopment"></a>
 ### Goals
 <ul>
   <li>To learn to create my own website.</li>
@@ -53,7 +53,7 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 
 
 
-## 2 - Kaggle <a name="kaggle"></a>
+## Kaggle <a name="kaggle"></a>
 ### Goals
 <ul>
   <li>To familiarize with datasets from various disciplines.</li>
@@ -71,7 +71,7 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 
 
 
-## 3 - End-to-End Machine Learning Projects <a name="End2EndML"></a>
+## End-to-End Machine Learning Projects <a name="End2EndML"></a>
 ### Goals
 <ul>
   <li>To learn entire project lifecycle of a machine learning project.</li>
@@ -100,7 +100,7 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 
 
 
-## 4 - Business Intelligence: PowerBI and Tableau <a name="BI"></a>
+## Business Intelligence: PowerBI and Tableau <a name="BI"></a>
 ### Goals
 <ul>
   <li>To learn no-code data visualization.</li>
@@ -136,41 +136,28 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 
 
 
-## 5 - SQL <a name="sql"></a>
+## SQL & NoSQL <a name="sql"></a>
 ### Goals
 <ul>
   <li>To learn how to handle SQL databases and make queries.</li>
+  <li>To learn how to handle NoSQL databases such as MongoDB.</li>
 </ul>
+
+### Resources
+[University of Colorado Boulder: The Structured Query Language](https://www.coursera.org/programs/cu-on-coursera-sqyue/learn/the-structured-query-language-sql?authProvider=uofc&source=search)
 
 ### Timeline
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
-|Day 1| Placeholder | Udemy Lesson Link|
+|Day 1| The Origins of SQL, The Relational Algebra, The SQL Standard | |
 
 
 
 
 
 
-## 6 - NoSQL <a name="nosql"></a>
-### Goals
-<ul>
-  <li>To learn how to handle NoSQL databases such as MongoDB.</li>
-</ul>
-
-#### Timeline
-
-|**Day**|**Lessons/Tasks Done**|**Reference Links**|
-|-|-|-|
-|Day 1| Placeholder | Udemy Lesson Link|
-
-
-
-
-
-
-## 7 - Algorithms <a name="algo"></a>
+## Algorithms <a name="algo"></a>
 ### Goals
 <ul>
   <li>To learn programming fundamentals behind functions.</li>
@@ -179,7 +166,10 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 
 ### Resources
 
-University of Colorado Boulder - Coursera Data Science
+**[University of Colorado Boulder - Foundation of Data Structures and Algorithms (Python)](https://www.coursera.org/programs/cu-on-coursera-sqyue/specializations/boulder-data-structures-algorithms?authProvider=uofc&source=search)**  
+- [Algorithms for Searching, Sorting, and Indexing](https://www.coursera.org/programs/cu-on-coursera-sqyue/learn/algorithms-searching-sorting-indexing?specialization=boulder-data-structures-algorithms)  
+- [Trees and Graphs: Basics](https://www.coursera.org/programs/cu-on-coursera-sqyue/learn/trees-graphs-basics?specialization=boulder-data-structures-algorithms)  
+- [Dynamic Programming, Greedy Algorithms](https://www.coursera.org/programs/cu-on-coursera-sqyue/learn/dynamic-programming-greedy-algorithms?specialization=boulder-data-structures-algorithms)  
 
 ### Timeline
 
@@ -242,30 +232,15 @@ University of Colorado Boulder - Coursera Data Science
 
 
 
-
-## 8 - Statistics <a name="stats"></a>
-### Goals
-<ul>
-  <li>To learn fundamentals of statistics.</li>
-  <li>To learn intuition on which statistical method to apply to which problems or questions.</li>
-</ul>
-
-### Timeline
-
-|**Day**|**Lessons/Tasks Done**|**Reference Links**|
-|-|-|-|
-|Day 1| Placeholder | Udemy Lesson Link|
-
-
-
-
-
-
-## 9 - Python / Advanced Python <a name="advPython"></a>
+## Python / Advanced Python <a name="advPython"></a>
 ### Goals
 <ul>
   <li>To learn quality-of-life improvements to make coding easier.</li>
 </ul>
+
+### Resources
+
+[Complete Python Playlist by Krish Naik](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)
 
 ### Timeline
 
@@ -278,11 +253,15 @@ University of Colorado Boulder - Coursera Data Science
 
 
 
-## 10 - R / Advanced R <a name="R"></a>
+## R / Advanced R <a name="R"></a>
 ### Goals
 <ul>
   <li>To learn a language purpose-built for Data Science.</li>
 </ul>
+
+## Resources
+
+[R Programming by John Hopkings University](https://www.coursera.org/learn/r-programming)
 
 ### Timeline
 
@@ -295,15 +274,81 @@ University of Colorado Boulder - Coursera Data Science
 
 
 
-## 12 - Docker <a name="docker"></a>
+## Docker <a name="docker"></a>
 ### Goals
 <ul>
   <li>To learn to use Docker for containerization of projects.</li>
   <li>To learn Kubernetes afterwards.</li>
 </ul>
 
+### Resources
+
+[Docker Documentation](https://docs.docker.com/get-started/overview/)
+
 ### Timeline
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
-|Day 1| Docker Desktop Installation, creating Images and Containers | |
+|Day 1| Docker Desktop Installation, creating Images and Containers | [Docker Getting Started Guide](https://docs.docker.com/get-started/) |
+
+
+
+
+
+
+## Statistics <a name="stats"></a>
+### Goals
+<ul>
+  <li>To learn fundamentals of statistics.</li>
+  <li>To learn intuition on which statistical method to apply to which problems or questions.</li>
+</ul>
+
+### Resources
+
+[Statistics by Professor Leonard, Merced College Callifornia](https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0)
+
+### Timeline
+
+|**Day**|**Lessons/Tasks Done**|**Reference Links**|
+|-|-|-|
+|Day 1| Elementary Statistics, Categories of Data, Sampling Techniques | |
+|Day 2| Frequency Distribution, Historgrams; Mean, Median & Mode | |
+|Day 3| Standard Deviation | |
+|Day 4| Z-Score, Percentiles, Quartiles and Comparing Standard Deviation | |
+|Day 5| Introduction to Probability | |
+|Day 6| Probability: Addition Rule, Multiplication Rule | |
+|Day 7| Complementary Events | |
+|Day 8| Permutations & Combinations | |
+
+
+
+
+
+## Linear Algebra <a name="linearAlgebra"></a>
+### Goals
+<ul>
+  <li>To learn fundamentals of statistics.</li>
+  <li>To learn intuition on which statistical method to apply to which problems or questions.</li>
+</ul>
+
+### Resources
+
+[Linear Algebra by Dr. Trefor Bazett, University of Victoria, Canada](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
+
+### Timeline
+
+|**Day**|**Lessons/Tasks Done**|**Reference Links**|
+|-|-|-|
+|Day 1| Elementary Statistics, Categories of Data, Sampling Techniques | |
+|Day 2| Matrix Notation, Elementary Row Operation, Row Echelon Form | |
+|Day 3| Matrix-Vector Multiplication | |
+|Day 4| Homogeneous Systems of Linear Equations | |
+|Day 5| Transformations and Matrix Transformations | |
+|Day 6| Matrix Inverse | |
+|Day 7| Vector Space, Span, Subspace | |
+|Day 8| Eigenvalues and Eigenvectors | |
+
+
+
+
+
