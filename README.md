@@ -1,33 +1,39 @@
+
 <h1 align="center">Tech Skills Roadmap</h1>
+
 
 This is my tech learning journal for skills ranging from HTML/CSS to ML Libraries like Scikit Learn/XGBoost to DevOps topics.
 
+
 ## Table of Contents
-[Web Development](#webDevelopment)
-[Docker](#docker)
-[kaggle](#kaggle)
-[End-to-End Machine Learning Projects](#End2EndML)
-[Business Intelligence - PowerBI & Tableau](#BI)
-[SQL](#sql)
-[NoSQL](#nosql)
-[Algorithms](#algo)
-[Statistics](#stats)
-[Python / Advanced Python](#advPython)
-[R / Advanced R](#R)
+[Web Development](#webDevelopment)  
+[End-to-End Machine Learning Projects](#End2EndML)  
+[Kaggle](#kaggle)  
+[Business Intelligence - PowerBI & Tableau](#BI)  
+[SQL](#sql)  
+[NoSQL](#nosql)  
+[Algorithms](#algo)  
+[Statistics](#stats)  
+[Python / Advanced Python](#advPython)  
+[R / Advanced R](#R)  
+[Docker](#docker)  
+
+
+
 
 
 ## 1 - Web Development <a name="webDevelopment"></a>
-### 1.1 - Goals
+### Goals
 <ul>
   <li>To learn to create my own website.</li>
   <li>To learn to use a cloud service such as AWS.</li>
 </ul>
 
-### 1.2 - Resources
+### Resources
 
 [Angela Yu's Complete Web Development Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=KEEPLEARNING)
 
-### 1.3 - Timeline
+### Timeline
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
@@ -43,46 +49,41 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 |Day 10| Folder structure for keeping an archive of old website designs | |
 |Day 11| Galssmorphism CSS Aesthetic | |
 
-## 2 - Docker <a name="docker"></a>
-### 2.1 - Goals
-<ul>
-  <li>To learn to use Docker for containerization of projects.</li>
-  <li>To learn Kubernetes afterwards.</li>
-</ul>
 
-### 2.2 - Timeline
 
-|**Day**|**Lessons/Tasks Done**|**Reference Links**|
-|-|-|-|
-|Day 1| Docker Desktop Installation, creating Images and Containers | |
 
-## 3 - Kaggle <a name="kaggle"></a>
-### 3.1 - Goals
+
+## 2 - Kaggle <a name="kaggle"></a>
+### Goals
 <ul>
   <li>To familiarize with datasets from various disciplines.</li>
   <li>To gain intuition on approaches to analyzing and producing models from datasets from various disciplines.</li>
 </ul>
 
-### 3.2 - Timeline 
+### Timeline 
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Titanic Surivival Prediction in Python | [Youtube-NeuralNine](https://www.youtube.com/watch?v=fATVVQfFyU0&list=PLzO8CHlQNBCnQRTwVkUEpAEuAu8W_qOnl)|
 |Day 2| Titanic Cont'd [Seaborn, Numpy, Matplotlib, SKLearn, GridSearchCV] | |
 
-## 4 - End-to-End Machine Learning Projects <a name="End2EndML"></a>
-### 4.1 - Goals
+
+
+
+
+## 3 - End-to-End Machine Learning Projects <a name="End2EndML"></a>
+### Goals
 <ul>
   <li>To learn entire project lifecycle of a machine learning project.</li>
   <li>To learn application of advanced python methods in a project.</li>
   <li>To develop intuition for solving errors and exceptions.</li>
 </ul>
 
-### 4.4 - Resources
+### Resources
 
 [End-to-End Machine Learning Project YT Playlist by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG)
 
-### 4.3 - Timeline
+### Timeline
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
@@ -95,8 +96,12 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 |Day 7| Hyperparameter Tuning | Krish Naik's ML Tutorial 7 |
 |Day 8| Model test deployment with Flask | Krish Naik's ML Tutorial 8 |
 
-## 5 - Business Intelligence: PowerBI and Tableau <a name="BI"></a>
-### 5.1 - Goals
+
+
+
+
+## 4 - Business Intelligence: PowerBI and Tableau <a name="BI"></a>
+### Goals
 <ul>
   <li>To learn no-code data visualization.</li>
   <li>To create easy-to-use interactive dashboards.</li>
@@ -104,63 +109,79 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
   <li>To learn how Microsoft Data Analytics is integrated with Azure and Fabric.</li>
 </ul>
 
-### 5.2 - Resources
+### Resources
 
-[Microsoft Learn - Power BI Data Analyst](https://learn.microsoft.com/en-us/collections/djwu3eywpk4nm)
+[Microsoft Learn - Power BI Data Analyst](https://learn.microsoft.com/en-us/collections/djwu3eywpk4nm)  
 [Tablea Training for Data Science (Udemy)](https://www.udemy.com/course/tableau10/?couponCode=KEEPLEARNING)
 
-### 5.3 - Timeline
+### Timeline
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
-|Day 1| Importing CSV Files, Calculated Fields and Exporting Worksheets | Udemy Ch. 1 |
-|Day 2| Time Series Data, Area Charts, Highlighting, Aggregation, Level of Detail and Filters | Udemy Ch. 2 |
-|Day 3| Maps, Scatterplots and Dashboards | Udemy Ch. 3 |
-|Day 4| Joining, Blending, Relationships and Dual Axis Charts | Udemy Ch. 4 |
-|Day 5| Table Calculations, Advanced Dashboards and Storyline | Udemy Ch. 5 |
-|Day 6| Advanced Data Preparation, Column Splitting, Pivoting, Geographical Errors | Udemy Ch. 6 |
-|Day 7| Course Completion: Clusters, Custom Territories, Design Features | Udemy Ch. 7 |
-|Day 8| Power BI Interface, Data Sources and Power Query Tool | Microsoft Learn -Lesson 1 |
-|Day 9| Clean, transform and load data | Microsoft Learn - Lesson 2 |
-|Day 10| Personal Project - Analyzing Relations between Country Obesity Rates, Country Weather and Country Economics | |
-|Day 11| Personal Project Cont'd - Transforming CIA World Factbook Dataset [258 Rows x 1071 Cols] | |
-|Day 12| Personal Project Cont'd - Interactive Dashboards | |
+|Day 1| Tableau: Importing CSV Files, Calculated Fields and Exporting Worksheets | Udemy Ch. 1 |
+|Day 2| Tableau: Time Series Data, Area Charts, Highlighting, Aggregation, Level of Detail and Filters | Udemy Ch. 2 |
+|Day 3| Tableau: Maps, Scatterplots and Dashboards | Udemy Ch. 3 |
+|Day 4| Tableau: Joining, Blending, Relationships and Dual Axis Charts | Udemy Ch. 4 |
+|Day 5| Tableau: Table Calculations, Advanced Dashboards and Storyline | Udemy Ch. 5 |
+|Day 6| Tableau: Advanced Data Preparation, Column Splitting, Pivoting, Geographical Errors | Udemy Ch. 6 |
+|Day 7| Tableau: Course Completion: Clusters, Custom Territories, Design Features | Udemy Ch. 7 |
+|Day 8| Power BI: Interface, Data Sources and Power Query Tool | Microsoft Learn -Lesson 1 |
+|Day 9| Power BI: Clean, transform and load data | Microsoft Learn - Lesson 2 |
+|Day 10| Power BI Personal Project: Analyzing Relations between Country Obesity Rates, Country Weather and Country Economics | |
+|Day 11| Power BI Personal Project Cont'd: Transforming CIA World Factbook Dataset [258 Rows x 1071 Cols] | |
+|Day 12| Power BI Personal Project Cont'd: Interactive Dashboards | |
 
-## 6 - SQL <a name="SQL"></a>
-### 6.1 - Goals
+
+
+
+
+
+## 5 - SQL <a name="sql"></a>
+### Goals
 <ul>
   <li>To learn how to handle SQL databases and make queries.</li>
 </ul>
 
-### 6.2 - Timeline
+### Timeline
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Placeholder | Udemy Lesson Link|
 
-## 7 - NoSQL <a name="nosql"></a>
-### 7.1 - Goals
+
+
+
+
+
+## 6 - NoSQL <a name="nosql"></a>
+### Goals
 <ul>
   <li>To learn how to handle NoSQL databases such as MongoDB.</li>
 </ul>
-#### 7.2 - Timeline
+
+#### Timeline
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Placeholder | Udemy Lesson Link|
 
-## 8 - Algorithms <a name="algo"></a>
-### 8.1 - Goals
+
+
+
+
+
+## 7 - Algorithms <a name="algo"></a>
+### Goals
 <ul>
   <li>To learn programming fundamentals behind functions.</li>
   <li>To learn first-principles of algorithms to enable ground-up implementation at work.</li>
 </ul>
 
-### 8.2 - Resources
+### Resources
 
 University of Colorado Boulder - Coursera Data Science
 
-### 8.3 - Timeline
+### Timeline
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
@@ -217,39 +238,72 @@ University of Colorado Boulder - Coursera Data Science
 |Day 50| Bell's Inequality, Grover's Search Algorithm | |
 |Day 51| Assignment: Problem Set 4 | |
 
-## 9 - Statistics <a name="stats"></a>
-### 9.1 - Goals
+
+
+
+
+
+## 8 - Statistics <a name="stats"></a>
+### Goals
 <ul>
   <li>To learn fundamentals of statistics.</li>
   <li>To learn intuition on which statistical method to apply to which problems or questions.</li>
 </ul>
 
-### 9.2 - Timeline
+### Timeline
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Placeholder | Udemy Lesson Link|
 
-## 10 - Advanced Python <a name="advPython"></a>
-### 10.1 - Goals
+
+
+
+
+
+## 9 - Python / Advanced Python <a name="advPython"></a>
+### Goals
 <ul>
   <li>To learn quality-of-life improvements to make coding easier.</li>
 </ul>
 
-### 10.2 - Timeline
+### Timeline
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| Krish Naik's Advanced Python Tutorial | |
 
-## 11 - Advanced R <a name="R"></a>
-### 11.1 - Goals
+
+
+
+
+
+## 10 - R / Advanced R <a name="R"></a>
+### Goals
 <ul>
   <li>To learn a language purpose-built for Data Science.</li>
 </ul>
 
-### 11.2 - Timeline
+### Timeline
 
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| John Hopkin's University - R Programming | |
+
+
+
+
+
+
+## 12 - Docker <a name="docker"></a>
+### Goals
+<ul>
+  <li>To learn to use Docker for containerization of projects.</li>
+  <li>To learn Kubernetes afterwards.</li>
+</ul>
+
+### Timeline
+
+|**Day**|**Lessons/Tasks Done**|**Reference Links**|
+|-|-|-|
+|Day 1| Docker Desktop Installation, creating Images and Containers | |
