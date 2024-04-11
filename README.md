@@ -151,6 +151,7 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 |**Day**|**Lessons/Tasks Done**|**Reference Links**|
 |-|-|-|
 |Day 1| The Origins of SQL, The Relational Algebra, The SQL Standard | |
+|Day 2| SELECT, WHERE, BOOLEAN, ORDER BY, DISCTINCT, DATES & NULLS | |
 
 
 
