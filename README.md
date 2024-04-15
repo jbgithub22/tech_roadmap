@@ -146,6 +146,7 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 ### Resources
 [University of Colorado Boulder: The Structured Query Language](https://www.coursera.org/programs/cu-on-coursera-sqyue/learn/the-structured-query-language-sql?authProvider=uofc&source=search)
 [W3Schools SQL](https://www.w3schools.com/sql/default.asp)
+[PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
 
 ### Timeline
 
@@ -154,7 +155,8 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 |Day 1| The Origins of SQL, The Relational Algebra, The SQL Standard | |
 |Day 2| SELECT, WHERE, BOOLEAN, ORDER BY, DISCTINCT, DATES & NULLS | |
 |Day 3| Subqueries, Co-related Subqeuries | |
-|Day 4| Aliases, Implicit/Explicit Inner Joins, Caertesian Product Error, Outer Join Discrepancy Checking| |
+|Day 4| Aliases, Implicit/Explicit Inner Joins, Caertesian Product Error, Outer Join Discrepancy Checking | |
+|Day 5| DDL, DML, CREATE TABLE, INSERT INTO, ALTER, Data Types, Constraints, VIEWs | |
 
 
 
