@@ -113,6 +113,7 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 
 [Microsoft Learn - Power BI Data Analyst](https://learn.microsoft.com/en-us/collections/djwu3eywpk4nm)  
 [Tablea Training for Data Science (Udemy)](https://www.udemy.com/course/tableau10/?couponCode=KEEPLEARNING)
+[The Big Book of Dashboards by S.Wexler, J.Shaffer & A.Cotgreave](https://nlb.overdrive.com/media/2937088)
 
 ### Timeline
 
@@ -130,6 +131,7 @@ This is my tech learning journal for skills ranging from HTML/CSS to ML Librarie
 |Day 10| Power BI Personal Project: Analyzing Relations between Country Obesity Rates, Country Weather and Country Economics | |
 |Day 11| Power BI Personal Project Cont'd: Transforming CIA World Factbook Dataset [258 Rows x 1071 Cols] | |
 |Day 12| Power BI Personal Project Cont'd: Interactive Dashboards | |
+|Day 13| Case Study: The Big Book of Dashboards | |
 
 
 
